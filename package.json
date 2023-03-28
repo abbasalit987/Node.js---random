@@ -1,0 +1,24 @@
+{
+  "name": "random",
+  "version": "1.0.0",
+  "description": "sample script",
+  "main": "server2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server2.js",
+    "start-server": "node server2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbasalit987/Node.js---random.git"
+  },
+  "author": "Abbas Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbasalit987/Node.js---random/issues"
+  },
+  "homepage": "https://github.com/abbasalit987/Node.js---random#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
